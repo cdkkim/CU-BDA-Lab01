@@ -2,7 +2,6 @@
 
 ## Kyeong Oh (Peter) Kim
 Currently pursuing Master of Engineering degree concentrating on _Data Analytics_ in Operations Research and Information Engineering department, class of 2015.
-
 kk572@cornell.edu
 
 ## Motivation for taking this course
