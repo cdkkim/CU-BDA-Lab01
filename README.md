@@ -1,7 +1,7 @@
 # CU-BDA-Lab01
 
 ## Kyeong Oh (Peter) Kim
-Master of Engineering in Operations Research and Information Engineering, class of 2015
+Currently pursuing Master of Engineering concentrating on Data Analytics in Operations Research and Information Engineering department, class of 2015.
 kk572@cornell.edu
 
 ### Interest
