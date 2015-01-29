@@ -12,4 +12,4 @@ I want to discover as many meaningful information as possible from any data to g
 How to buy the cheapest airline ticket.
 
 ## Image of the problem
-![Cheapest airline ticker](http://www.cheapair.com/blog/wp-content/uploads/2014/01/CheapAir-2013-Domestic-AirFares2.jpg?raw=true)
+![Cheapest airline ticket](/images/CheapAir-2013-Domestic-AirFares2.jpg?raw=True (Cheapest airline ticker))
